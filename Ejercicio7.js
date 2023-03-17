@@ -2,6 +2,6 @@
 pantalla "hola MUNDO"*/
 const saludo = "HoLa";
 const saludo1 = "mUnDo";
-let saludoMinuscula = saludo.toLocaleLowerCase();
-let saludo1Mayuscula = saludo1.toLocaleUpperCase();
+const saludoMinuscula = saludo.toLocaleLowerCase();
+const saludo1Mayuscula = saludo1.toLocaleUpperCase();
 console.log(saludoMinuscula +" " +saludo1Mayuscula);
